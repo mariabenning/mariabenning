@@ -1,6 +1,6 @@
 # Olá! sou Maria Benning, prazer em conhecê-lo (a)! 👋
-👩‍🎓 Formada em Tecnologia da Informação
-👩‍💻 Estudante de Desenvolvimento Full Stack
+👩‍🎓 Formada em Tecnologia da Informação <br>
+👩‍💻 Estudante de Desenvolvimento Full Stack <br>
 🎮 TETRIS GAMER
 
 
@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/mariabenning">
   <img height="" src="https://github-readme-stats.vercel.app/api?username=mariabenning&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabenning&layout=compact&langs_count=7&theme=dracula"/>
+<!--   <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabenning&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
   
   <div style="display: inline_block"><br>
